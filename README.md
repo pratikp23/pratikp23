@@ -32,7 +32,6 @@ Current Focus:
   - Machine Learning
   - Generative AI
   - LLM Applications
-  - AI Agents
   - MERN Stack
 ```
 
@@ -76,9 +75,9 @@ Current Focus:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikp23&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikp23&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -90,7 +89,7 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikp23&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -102,7 +101,7 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikp23&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -114,7 +113,7 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pratikp23&theme=algolia&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
@@ -126,7 +125,7 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/pratikp23/pratikp23/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -314,21 +313,21 @@ Conversational AI assistant powered by Large Language Models.
 <div align="center">
 
 
-<a href="YOUR_LINKEDIN">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/pratik-pathak-a20bb0270/)">
 
 <img src="https://skillicons.dev/icons?i=linkedin">
 
 </a>
 
 
-<a href="YOUR_GITHUB">
+<a href="[YOUR_GITHUB](https://github.com/pratikp23)">
 
 <img src="https://skillicons.dev/icons?i=github">
 
 </a>
 
 
-<a href="YOUR_PORTFOLIO">
+<a href="my-portfolio-sepia-eta-n5zeg0mn0g.vercel.app">
 
 <img src="https://skillicons.dev/icons?i=vercel">
 
