@@ -1,69 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=250&section=header&text=Pratik%20Pathak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=250&section=header&text=Pratik%20Pathak&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Full+Stack+Developer;Building+AI+Powered+Applications;MERN+Stack+Developer;Learning+By+Building+Projects)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress+🤖;
+  Full+Stack+Developer+💻;Building+AI+Powered+Applications+🚀;MERN+Stack+Developer;Learning+By+Building+Projects"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=pratikp23&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 
+---
+
 # 👋 About Me
 
-```yaml
-Name: Pratik Pathak
-Education: B.Tech Computer Science Engineering
 
-Role:
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+</div>
+
+
+```yaml
+name: Pratik Pathak
+
+role:
   - Software Developer
   - AI Engineer in Progress
 
-Passion:
+education:
+  - B.Tech Computer Science Engineering
+
+
+passion:
   - Artificial Intelligence
   - Full Stack Development
   - Building Real World Applications
 
-Current Focus:
-  - Machine Learning
+
+working_on:
+  - AI Powered Applications
+  - MERN Stack Projects
+  - Machine Learning Solutions
+
+
+exploring:
   - Generative AI
   - LLM Applications
-  - MERN Stack
+  - RAG Systems
+  - AI Agents
+
+
+mindset:
+  Build → Learn → Improve → Repeat 🚀
 ```
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Explorer-🤖-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-💻-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solver-⚡-orange?style=for-the-badge"/>
+
+</div>
+
 
 ---
 
 # 🚀 Tech Stack
 
+
 <div align="center">
+
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,java,javascript"/>
 
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 
 
 ### AI / ML
 
-[![AI](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
 
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,aws,vscode,linux)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,linux"/>
+
 
 </div>
 
@@ -75,21 +113,28 @@ Current Focus:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikp23&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikp23&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=pratikp23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikp23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 
 </div>
 
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Coding Streak
 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikp23&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=pratikp23&theme=tokyonight&hide_border=true"/>
+
 
 </div>
 
@@ -101,7 +146,9 @@ Current Focus:
 
 <div align="center">
 
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikp23&theme=tokyo-night&hide_border=true"/>
+
 
 </div>
 
@@ -113,7 +160,9 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pratikp23&theme=algolia&margin-w=15&margin-h=15&column=4"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pratikp23&theme=algolia&column=4&margin-w=15"/>
+
 
 </div>
 
@@ -125,7 +174,9 @@ Current Focus:
 
 <div align="center">
 
+
 <img src="https://raw.githubusercontent.com/pratikp23/pratikp23/output/github-contribution-grid-snake-dark.svg"/>
+
 
 </div>
 
@@ -140,7 +191,9 @@ Current Focus:
 
 <table>
 
+
 <tr>
+
 
 <td width="50%">
 
@@ -148,30 +201,27 @@ Current Focus:
 ## 🤖 LearnAI
 
 
-<img src="YOUR_PROJECT_IMAGE">
+AI-powered Learning Management System for personalized learning.
 
 
-AI Powered Learning Management System designed to provide personalized learning experiences.
+**Features**
+
+✨ AI Assisted Learning  
+✨ Course Management  
+✨ Interactive Dashboard  
+✨ Modern UI  
 
 
-### Features
+<a href="YOUR_LEARNAI_REPO">
 
-✔ AI Assisted Learning  
-✔ Course Management  
-✔ User Dashboard  
-✔ Modern Responsive UI  
-
-
-<a href="YOUR_GITHUB_LINK">
-
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
 
-<a href="YOUR_LIVE_LINK">
+<a href="YOUR_LEARNAI_DEMO">
 
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge"/>
 
 </a>
 
@@ -185,38 +235,35 @@ AI Powered Learning Management System designed to provide personalized learning 
 ## ♟️ JustAPawn
 
 
-<img src="YOUR_PROJECT_IMAGE">
+Modern chess platform with multiplayer and AI analysis.
 
 
-A modern chess platform with multiplayer gameplay and AI powered analysis.
+**Features**
+
+✨ Real Time Chess  
+✨ AI Move Analysis  
+✨ Daily Puzzles  
+✨ Leaderboards  
 
 
-### Features
+<a href="YOUR_JUSTAPAWN_REPO">
 
-✔ Real Time Chess  
-✔ AI Move Analysis  
-✔ Daily Puzzles  
-✔ Leaderboards  
-
-
-<a href="YOUR_GITHUB_LINK">
-
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
 
-<a href="YOUR_LIVE_LINK">
+<a href="YOUR_JUSTAPAWN_DEMO">
 
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge"/>
 
 </a>
 
 
 </td>
 
-</tr>
 
+</tr>
 
 
 <tr>
@@ -225,39 +272,35 @@ A modern chess platform with multiplayer gameplay and AI powered analysis.
 <td width="50%">
 
 
-## 🌐 Developer Portfolio
+## 🌐 Portfolio
 
 
-<img src="YOUR_PROJECT_IMAGE">
+Premium developer portfolio website.
 
 
-A modern developer portfolio with animations and premium UI.
+**Features**
+
+✨ Modern UI  
+✨ Animations  
+✨ Responsive Design  
+✨ Dark Theme  
 
 
-### Features
+<a href="https://github.com/pratikp23/My_Portfolio">
 
-✔ Responsive Design  
-✔ Smooth Animations  
-✔ Dark Theme  
-✔ Interactive Sections  
-
-
-<a href="YOUR_GITHUB_LINK">
-
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
 
-<a href="YOUR_LIVE_LINK">
+<a href="https://my-portfolio-sepia-eta-n5zeg0mn0g.vercel.app">
 
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge"/>
 
 </a>
 
 
 </td>
-
 
 
 <td width="50%">
@@ -266,30 +309,27 @@ A modern developer portfolio with animations and premium UI.
 ## 💬 AI Chatbot
 
 
-<img src="YOUR_PROJECT_IMAGE">
+LLM powered conversational AI assistant.
 
 
-Conversational AI assistant powered by Large Language Models.
+**Features**
+
+✨ Natural Conversation  
+✨ Context Awareness  
+✨ Fast Response  
+✨ Modern Interface  
 
 
-### Features
+<a href="YOUR_CHATBOT_REPO">
 
-✔ Natural Conversations  
-✔ Context Understanding  
-✔ Fast Responses  
-✔ Modern UI  
-
-
-<a href="YOUR_GITHUB_LINK">
-
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
 
-<a href="YOUR_LIVE_LINK">
+<a href="YOUR_CHATBOT_DEMO">
 
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge"/>
 
 </a>
 
@@ -298,6 +338,7 @@ Conversational AI assistant powered by Large Language Models.
 
 
 </tr>
+
 
 </table>
 
@@ -313,23 +354,23 @@ Conversational AI assistant powered by Large Language Models.
 <div align="center">
 
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/pratik-pathak-a20bb0270/)">
+<a href="https://www.linkedin.com/in/pratik-pathak-a20bb0270/">
 
-<img src="https://skillicons.dev/icons?i=linkedin">
-
-</a>
-
-
-<a href="[YOUR_GITHUB](https://github.com/pratikp23)">
-
-<img src="https://skillicons.dev/icons?i=github">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 
 </a>
 
 
-<a href="my-portfolio-sepia-eta-n5zeg0mn0g.vercel.app">
+<a href="https://github.com/pratikp23">
 
-<img src="https://skillicons.dev/icons?i=vercel">
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+
+<a href="https://my-portfolio-sepia-eta-n5zeg0mn0g.vercel.app">
+
+<img src="https://skillicons.dev/icons?i=vercel"/>
 
 </a>
 
@@ -341,9 +382,12 @@ Conversational AI assistant powered by Large Language Models.
 
 # ⚡ Developer Quote
 
+
 <div align="center">
 
-> "Great software is built by curiosity, consistency, and continuous learning."
+
+> "Code. Learn. Build. Repeat."
+
 
 </div>
 
@@ -351,9 +395,6 @@ Conversational AI assistant powered by Large Language Models.
 ---
 
 <div align="center">
-
-
-### ⭐ Thanks for visiting my profile!
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:4F46E5&height=120&section=footer"/>
