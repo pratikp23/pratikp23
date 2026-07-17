@@ -175,7 +175,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikp23&la
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/pratikp23/pratikp23/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/pratikp23/pratikp23/gh-pages/github-contribution-grid-snake-dark.svg"/>
 
 
 </div>
