@@ -8,6 +8,11 @@
   Full+Stack+Developer+💻;Building+AI+Powered+Applications+🚀;MERN+Stack+Developer;Learning+By+Building+Projects"/>
 
 <br>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=F7B42C&center=true&vCenter=true&width=800&lines=Frontend+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%E2%9A%A1;AI+Engineer+in+Progress+%F0%9F%A4%96;Building+Future+with+Code+%F0%9F%8C%8E"/>
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=pratikp23&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -15,6 +20,7 @@
 
 
 ---
+
 
 # 👋 About Me
 
