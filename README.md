@@ -1,12 +1,13 @@
 <div align="center">
 <h1 align="center">Hey 👋, I'm Pratik Pathak</h1>
-
-<p align="center">
+  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratikp23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/pratikp23?label=Followers&style=flat" alt="Followers" />
 </p>
+<img width="1584" height="396" alt="my LinkedIn Banner" src="https://github.com/user-attachments/assets/5af633eb-fd1e-4391-8da7-ce170cb53115" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=250&section=header&text=Pratik%20Pathak&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=250&section=header&text=Pratik%20Pathak&fontSize=55&fontColor=ffffff&animation=fadeIn"/> -->
 
 <br>
 
@@ -163,7 +164,6 @@
 
 
 ---
-
 # 🚀 Featured Projects
 
 <table width="100%">
@@ -191,11 +191,11 @@
         • 🤖 AI-assisted learning suggestions
       </td>
       <td align="center" valign="middle">
-        <a href="YOUR_LMS_REPO">
+        <a href="https://github.com/pratikp23">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
         </a>
         <br><br>
-        <a href="YOUR_LMS_DEMO">
+        <a href="https://learning-management-system-five-azure.vercel.app/">
           <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
         </a>
       </td>
