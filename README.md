@@ -237,14 +237,17 @@
 
 # 🏆 GitHub Achievements
 
-
 <div align="center">
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=pratikp23&theme=algolia&column=4&margin-w=15"/>
-
+  <a href="https://github.com/pratikp23?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-398aed8e97db.png" width="110" alt="Quickdraw Achievement" />
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="110" alt="Pull Shark Achievement" />
+    <img src="https://github.githubassets.com/assets/yolo-default-40bb32b172a2.png" width="110" alt="YOLO Achievement" />
+  </a>
 
 </div>
+
+---
 
 
 ---
