@@ -228,10 +228,6 @@
   </tbody>
 </table>
 
----
-
-
-
 
 ---
 
@@ -249,23 +245,21 @@
 
 ---
 
-
----
 # 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pratik-pathak">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/pratik-pathak-a20bb0270/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 <a href="https://github.com/pratikp23">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 <a href="mailto:pratikpathak343@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://my-portfolio-sepia-eta-n5zeg0mn0g.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel"/>
+  <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
 </div>
@@ -283,6 +277,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:4F46E5&height=120&section=footer"/>
 
 </div>
+
 
 
 
